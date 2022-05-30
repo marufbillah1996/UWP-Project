@@ -1,1 +1,0 @@
-D:\R50\M3\ProjectUWP\Book\BookSellerApp_Solution\BookSellerApp\BookSellerApp.csproj;x86
